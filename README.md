@@ -5,9 +5,13 @@ With a background in business and technical project management, I bring a unique
 
 ## Technical Skills 🧰
 **Programming languages:** Javascript, Typescript, PHP, Ruby
+
 **Web technologies:** React, React Native, Node.js, NextJs, Remix, HTML, Rails, HTML, CSS, Apollo GraphQl
+
 **Cloud platforms:** AWS, Firebase
+
 **DevOps tools:** Docker
+
 **Database systems:** PostgreSQL, MySQL, MongoDB
 
 ## Key Projects 📂
