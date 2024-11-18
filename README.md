@@ -9,3 +9,6 @@ With a background in business and technical project management, I bring a unique
 **Cloud platforms:** AWS, Firebase
 **DevOps tools:** Docker
 **Database systems:** PostgreSQL, MySQL, MongoDB
+
+## Key Projects
+[https://wherecanwedance.com](Wherecanwedance.com app): Leading the rebuild of an events website for global dance - adding reactivity to a fully Rails monolith
